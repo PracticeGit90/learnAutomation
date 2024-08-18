@@ -1,0 +1,2 @@
+This line is before initialization
+Added next Line from eclipse before initialization
